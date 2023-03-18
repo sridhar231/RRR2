@@ -1,1 +1,2 @@
-# RRR2
+
+#!/bin/bang
